@@ -3,7 +3,7 @@ import { Routes, Route, Link } from "react-router-dom";
 import Bulb from "./Bulb";
 
 
-function App() {
+function App() { //intsall tha package of react-router-dom
   return (
     <div className="p-4">
       <nav className="mb-4">
